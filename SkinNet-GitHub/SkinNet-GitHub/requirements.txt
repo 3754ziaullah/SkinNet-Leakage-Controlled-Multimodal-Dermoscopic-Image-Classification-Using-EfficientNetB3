@@ -1,0 +1,14 @@
+# TensorFlow and Keras versions recorded in the completed notebook
+tensorflow==2.20.0
+keras==3.13.2
+keras-hub
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+Pillow
+scikit-image
+lime
+ipython
+jupyterlab
